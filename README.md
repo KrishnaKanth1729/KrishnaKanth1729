@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
 <div>
   <h1>Hello</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaKanth1729&&show_icons=true&theme=merko">
 </div>
